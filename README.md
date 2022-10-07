@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Faisal
+- 👀 I’m interested in Python Programming
+- 🌱 I’m currently learning Game Development on Unity
+- 📫 Reach out to me on email - faisalkhanpvt@gmail.com
